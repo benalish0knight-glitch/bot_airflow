@@ -1,0 +1,6 @@
+apache-airflow==2.8.1
+requests
+# apache-airflow-providers-telegram==4.1.0
+pendulum
+apache-airflow-providers-telegram
+dotenv
